@@ -18,4 +18,7 @@ This is a Typescript Node.js template. It can be used to bootstrap bots, workers
 2. Rename `.env.example` to `.env` and change the settings
 3. Run `npm ci` to install all dependencies
 4. Run `npm run dev`
-# simple-webhooks-server
+   
+## simple-webhooks-server
+- Dashboard is available at: `https://webhooks-server.icy-top.wonderfulshed.xyz/bullboard`
+- Webhook URL: `https://webhooks-server.icy-top.wonderfulshed.xyz/handler`
